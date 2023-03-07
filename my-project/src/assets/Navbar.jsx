@@ -71,18 +71,18 @@ export default function NavBar() {
                         </ul>
 
                         <div className="mt-3 space-y-2 lg:hidden md:inline-block">
-                    <a
+                    {/* <a
                         href="javascript:void(0)"
                         className="inline-block w-full px-4 py-2 text-center text-green bg-white rounded-md shadow hover:bg-gray-800 "
                     >
                         Sign in
-                    </a>
-                    <a
+                    </a> */}
+                    {/* <a
                         href="javascript:void(0)"
                         className="inline-block w-full px-4 py-2 text-center text-gray-800 bg-white rounded-md shadow hover:bg-gray-100"
                     >
                         Sign up
-                    </a>
+                    </a> */}
                 </div>
                     </div>
                 </div>
