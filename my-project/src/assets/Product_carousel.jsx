@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { dataDigitalBestSeller } from "../data";
+import { dataDigitalBestSeller } from "../data1";
 
 export default function Product_carousel() {
   function SampleNextArrow(props) {
@@ -67,7 +67,7 @@ export default function Product_carousel() {
 
   return (
     <>
-    <div className="m-16 ml-28 ">
+    <div className="m-16 ml-28 font-Poppins ">
         <h5 className="text-light_green text-6xl font-medium ">Trending Products</h5>
     </div>
     <div className="App w-[80%] m-auto mt-12 mb-20">
